@@ -8,6 +8,7 @@ namespace FilterData
 {
     class Program
     {
+        //BEFORE EXECUTING THE CODE THE FILE HAS TO BE DOWNLOADED FIRST!
         static void Main(string[] args)
         {
             List<string> list0 = new List<string>();
